@@ -1,6 +1,7 @@
 # Task-tracker
 
 ## Description
+This application uses the users local storage to save their daily tasks.
 
 ## Link 
 https://dherington1.github.io/Task-tracker/
